@@ -1,0 +1,10 @@
+* {
+    background-color: rgb(228, 225, 225);
+
+}
+.button {
+    border: solid red;
+    height: 10px;
+    width: 100%;
+}
+
